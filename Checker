@@ -7,6 +7,6 @@ if game.PlaceId == 6516141723 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/DOORS-MultiHub/main/Source'))()
     end
  -- Pls Donate
-if game.PlaceId == 8737602449 then
+--[[if game.PlaceId == 8737602449 then
      loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/PLSDonate-MultiHub/main/Source'))() 
-end
+end]]
