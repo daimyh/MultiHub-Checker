@@ -1,5 +1,5 @@
 -- psx
-if game.PlaceId == 6284583030 then
+if game.PlaceId == 6284583030 or 10321372166 or 7722306047 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/daimyh/PSX-MultiHub/main/Source'))()
 end
 -- doors
